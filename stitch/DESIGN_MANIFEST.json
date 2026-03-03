@@ -1,0 +1,22 @@
+{
+  "projectId": "7218042137167332355",
+  "projectTitle": "test-counter",
+  "generatedAt": "2026-03-03T11:21:00Z",
+  "screens": [
+    {
+      "screenId": "30c7c3ee1b77489ab696be4b0d6fbcaf",
+      "title": "Minimalist Central Counter Page",
+      "htmlFile": "counter-page.html",
+      "screenshotFile": "counter-page.png",
+      "width": 2560,
+      "height": 2048
+    }
+  ],
+  "designSystem": {
+    "aesthetic": "minimal",
+    "palette": "Analytics / Dashboard",
+    "headingFont": "Space Grotesk",
+    "bodyFont": "DM Sans",
+    "iconLibrary": "Lucide React"
+  }
+}
